@@ -1,0 +1,209 @@
+/* 
+Shades of purple, generated using SASS
+darken, 1.5%, from #b700ff:
+
+0%
+#b700ff
+
+1%
+#b300fa
+
+2%
+#b000f5
+
+3%
+#ac00f0
+
+4%
+#a800eb
+
+5%
+#a500e6
+
+6%
+#a100e0
+
+7%
+#9d00db
+
+8%
+#9a00d6
+
+9%
+#9600d1
+
+10%
+#9200cc
+
+11%
+#8f00c7
+
+12%
+#8b00c2
+
+13%
+#8700bd
+
+14%
+#8400b8
+
+15%
+#8000b3
+
+16%
+#7c00ad
+
+17%
+#7900a8
+
+18%
+#7500a3
+
+19%
+#71009e
+
+20%
+#6e0099
+
+21%
+#6a0094
+
+22%
+#66008f
+
+23%
+#63008a
+
+24%
+#5f0085
+
+25%
+#5c0080
+
+26%
+#58007a
+
+27%
+#540075
+
+28%
+#510070
+
+29%
+#4d006b
+
+30%
+#490066
+
+31%
+#460061
+
+32%
+#42005c
+
+33%
+#3e0057
+
+34%
+#3b0052
+
+35%
+#37004d
+
+36%
+#330047
+
+37%
+#300042
+
+38%
+#2c003d
+
+39%
+#280038
+
+40%
+#250033
+
+41%
+#21002e
+
+42%
+#1d0029
+
+43%
+#1a0024
+
+44%
+#16001f
+
+45%
+#12001a
+
+46%
+#0f0014
+
+47%
+#0b000f
+
+48%
+#07000a
+
+49%
+#040005
+
+50%
+#000000
+
+*/
+
+/* 
+Darkest to lightest origin:
+
+
+
+(unknown)
+--colorNeutralBackground6: #333333;
+
+(top bar with search)
+--colorNeutralBackground5: #0a0a0a;
+
+(unknown)
+--colorNeutralBackground4: #141414;
+
+(Teams List Sidebar View)
+--colorDefaultBackground7: #1A1A1A;
+
+(main chat tab)
+--colorNeutralBackground3: #1f1f1f;
+
+(top bar in Settings menu)
+--backgroundCanvas: #1f1f1f;
+
+(loading colour)
+--themeLoadingScreenColor: #1f1f1f;
+
+(search bar)
+--colorNeutralBackground2: #242424;
+
+(Selected channel in side Teams list)
+--colorNeutralBackground4Selected: #242424;
+
+(chat messages)
+--colorNeutralBackground1: #292929;
+
+(Hover channel in side Teams list)
+--colorSubtleBackgroundLightAlphaHover: rgba(255, 255, 255, 0.1);
+*/
+
+.fui-FluentProviderr0 {
+    --colorNeutralBackground5: #12001a !important; /* 45% */
+    --colorDefaultBackground7: #1d0029 !important; /* 42% */
+    --colorNeutralBackground3: #280038 !important; /* 39% */
+    --backgroundCanvas: #2c003d !important; /* 38% */
+    --colorNeutralBackground2: #330047 !important; /* 36% */
+    --colorNeutralBackground4Selected: #330047 !important; /* 36% */
+    --colorNeutralBackground1: #3e0057 !important; /* 33% */
+    --themeLoadingScreenColor: #250033 !important; /* 40% but this doesnt work as my own injector injects after load */
+    --colorSubtleBackgroundLightAlphaHover: rgba(255, 255, 255, 0.1); /* 10% opacity white */
+}
