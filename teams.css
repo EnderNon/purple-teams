@@ -194,7 +194,11 @@ Darkest to lightest origin:
 
 (Hover channel in side Teams list)
 --colorSubtleBackgroundLightAlphaHover: rgba(255, 255, 255, 0.1);
+
+(Assignments page background)
+--background2: var(--grey-700);
 */
+
 
 .fui-FluentProviderr0 {
     --colorNeutralBackground5: #12001a !important; /* 45% */
@@ -206,4 +210,6 @@ Darkest to lightest origin:
     --colorNeutralBackground1: #3e0057 !important; /* 33% */
     --themeLoadingScreenColor: #250033 !important; /* 40% but this doesnt work as my own injector injects after load */
     --colorSubtleBackgroundLightAlphaHover: rgba(255, 255, 255, 0.1); /* 10% opacity white */
+    --background2: #1d0029 !important; /* 42% */
 }
+
