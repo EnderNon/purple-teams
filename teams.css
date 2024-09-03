@@ -213,3 +213,7 @@ Darkest to lightest origin:
     --background2: #1d0029 !important; /* 42% */
 }
 
+:root {
+    --grey-800: #000000
+}
+
